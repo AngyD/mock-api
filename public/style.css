@@ -1,0 +1,21 @@
+:root {
+  /* grey */
+  --grey-900: #111827;
+  /* white */
+  --white: #fff;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  background-color: var(--white);
+  font-family: "Roboto", sans-serif;
+  flex-direction: column;
+  padding: 0.5rem;
+  margin: 0;
+  color: var(--grey-900);
+  letter-spacing: 0;
+}
+
+.wrap {
+  padding: 5rem;
+}

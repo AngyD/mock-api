@@ -1,0 +1,147 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Marinara",
+      "price": "4.00",
+      "ingredients": "tomato, garlic, oregano",
+      "allergens": ["gluten"]
+    },
+    {
+      "id": 2,
+      "name": "Margherita",
+      "price": "4.50",
+      "ingredients": "mozzarella, tomato, basil",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 3,
+      "name": "Napoletana",
+      "price": "6.50",
+      "ingredients": "mozzarella, tomato, anchovies, capers",
+      "allergens": ["dairy", "fish", "gluten"]
+    },
+    {
+      "id": 4,
+      "name": "Calzone",
+      "price": "6.50",
+      "ingredients": "tomato, mozzarella, champignon mushrooms, cooked ham",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 5,
+      "name": "Vegetariana",
+      "price": "7.50",
+      "ingredients": "mozzarella, tomato, zucchini, peppers, grilled eggplant",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 6,
+      "name": "Quattro Formaggi",
+      "price": "6.50",
+      "ingredients": "mozzarella, tomato, brie, asiago, gorgonzola, emmental",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 7,
+      "name": "Quattro Stagioni",
+      "price": "6.80",
+      "ingredients": "mozzarella, tomato, artichokes, cooked ham, mushrooms",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 8,
+      "name": "Capricciosa",
+      "price": "7.00",
+      "ingredients": "mozzarella, tomato, mushrooms, cooked ham, artichokes, olives",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 9,
+      "name": "Buffala",
+      "price": "7.50",
+      "ingredients": "buffalo mozzarella, tomato",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 10,
+      "name": "Prosciutto e Funghi",
+      "price": "6.50",
+      "ingredients": "mozzarella, tomato, cooked ham, mushrooms",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 11,
+      "name": "Diavola",
+      "price": "6.00",
+      "ingredients": "mozzarella, tomato, spicy salami",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 12,
+      "name": "Wurstel",
+      "price": "6.00",
+      "ingredients": "mozzarella, tomato, wurstel",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 13,
+      "name": "Prosciutto",
+      "price": "6.50",
+      "ingredients": "mozzarella, tomato, cooked ham",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 14,
+      "name": "Funghi",
+      "price": "6.50",
+      "ingredients": "mozzarella, tomato, mushrooms",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 15,
+      "name": "Funghi Porcini",
+      "price": "8.60",
+      "ingredients": "mozzarella, tomato, porcini mushrooms",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 16,
+      "name": "Rucola e Parmiggiano",
+      "price": "7.00",
+      "ingredients": "mozzarella, tomato, rocket, parmesan",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 17,
+      "name": "Tonno e Cipolla",
+      "price": "7.00",
+      "ingredients": "mozzarella, tomato, tuna, onion",
+      "allergens": ["dairy", "fish", "gluten"]
+    },
+    {
+      "id": 18,
+      "name": "Panna e Salmone",
+      "price": "8.50",
+      "ingredients": "tomato, mozzarella, cream, salmon",
+      "allergens": ["dairy", "fish", "gluten"]
+    },
+    {
+      "id": 19,
+      "name": "Boscaiola",
+      "price": "9.00",
+      "ingredients": "tomato, mozzarella, champignon mushrooms, sausage, parsley, garlic",
+      "allergens": ["dairy", "gluten"]
+    },
+    {
+      "id": 20,
+      "name": "Bresaola e Rucola",
+      "price": "9.00",
+      "ingredients": "mozzarella, arugula, bresaola",
+      "allergens": ["dairy", "gluten"]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
