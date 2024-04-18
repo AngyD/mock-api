@@ -9,7 +9,7 @@
 #### A little help for beginners:
 
 ```sh
-cd mock-api
+cd mock-api-main
 npm install
 npm run server
 ```
