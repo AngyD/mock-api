@@ -1,7 +1,7 @@
 {
   "name": "mock-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "fake api",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
